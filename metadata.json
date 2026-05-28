@@ -1,0 +1,6 @@
+{
+  "name": "مؤونة",
+  "description": "تطبيق متكامل ومميز لإدارة المشتريات، لمون وحاجيات المنزل، ومتابعة المصاريف اليومية للمحافظة على ميزانية العائلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
